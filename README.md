@@ -132,9 +132,7 @@ docker-compose exec hackxer hackxer
 docker-compose down # destroys instance
 ```
 
-# Screenshots
-
-[![asciicast](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz.png)](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz)
+# Screenshot
 
 ![alt logo](https://media.giphy.com/media/xT0xeFxyHAKirrLa24/giphy.gif)
 
